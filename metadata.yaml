@@ -1,0 +1,31 @@
+_repo: Far-from-the-Madding-Crowd_27
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: ''
+gutenberg_issued: '1992-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women farmers -- Fiction'
+- !lcsh 'Farm life -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Wessex (England) -- Fiction'
+- !lcsh 'Pastoral fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- GITenberg
+title: Far from the Madding Crowd
+url: http://www.gutenberg.org/ebooks/27
